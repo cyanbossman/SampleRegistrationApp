@@ -1,0 +1,57 @@
+﻿<Window x:Class="NSR_Clone.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sample Registration And Organizer" Height="450" Width="1000">
+    <Grid HorizontalAlignment="Right" Width="975">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="87*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <TextBlock Text="Sample Count: " />
+            <TextBlock Text="{Binding SampleCount}" />
+
+            <TextBlock Text="Batch status: " Height="15.96" />
+            <TextBlock Text="{Binding IsDone}" />
+
+            <TextBlock Text="Chosen customer: " />
+            <TextBlock Text="{Binding ChosenCustomer.Name}" />
+
+            <Button Content="Save Batch" Click="Button_Click_SaveBatch" />
+            <Button Content="Open New Batch" Click="Button_Click_OpenNewBatch" />
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.ColumnSpan="2">
+
+            <Button Content="Add Sample To Batch" Click="Button_Click_AddSample" />
+
+            <Button Content="Pick Customer" Click="Button_Click_ToggleCustomers" />
+            <ListBox ItemsSource="{Binding CustomerOptions}" 
+                Visibility="{Binding CustomerListVisibility}"
+                x:Name="CustomerListBox" />
+            <Button Content="Confirm" Click="Button_Click_PickCustomer" Visibility="{Binding CustomerListVisibility}" />
+
+            <Button Content="Update Sample Status" Click="Button_Click_ToggleSamples" />
+            <ListBox ItemsSource="{Binding SampleOptions}"    
+                Visibility="{Binding SampleListVisibility}"
+                x:Name="SamplesListBox" />
+
+            <Button Content="Select Sample" Click="Button_Click_SelectedSampleOptions" Visibility="{Binding SampleListVisibility}" />
+            <Button Content="Add Analysis To Sample" Click="Button_Click_ToggleAnalysisJson" Visibility="{Binding SelectedSampleOptions}" />
+            <ListBox ItemsSource="{Binding AnalysisOptionsJson}"
+                    Visibility="{Binding AnalysisOptionsVisibility}"
+                    x:Name="AnalysisJsonListBox" />
+            <Button Content="Add Analysis To Sample" Click="Button_Click_PickAnalysis" Visibility="{Binding AnalysisOptionsVisibility}" />
+            <Button Content="Change Analysis Status" Click="Button_Click_ToggleAnalyses" Visibility="{Binding SelectedSampleOptions}" />
+            <ListBox ItemsSource="{Binding AnalysisOptions}"
+                    Visibility="{Binding AnalysisListVisibility}"
+                    x:Name="AnalysisListBox" />
+            <Button Content="Complete Analysis" Click="Button_Click_CompleteAnalysis" Visibility="{Binding AnalysisListVisibility}" />
+            <Button Content="Close List" Click="Button_Click_CloseAllSample" Visibility="{Binding CloseButtonVisibility}" />
+
+        </StackPanel>
+    </Grid>
+</Window>

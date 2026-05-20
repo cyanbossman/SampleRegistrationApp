@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\objectfolder\\customerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\objectfolder\\customerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\objectfolder\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\objectfolder\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\objectfolder\\batchclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\objectfolder\\batchclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\viewmodels\\batchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\viewmodels\\batchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\jsondata\\customerdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\jsondata\\customerdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\jsondata\\analysisdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\jsondata\\analysisdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\objectfolder\\batchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\objectfolder\\batchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\jsonfactory\\jsonfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\jsonfactory\\jsonfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|c:\\users\\silas\\source\\repos\\nsr_clone\\nsr_clone\\objectfolder\\analysisclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D0C0B8-672A-8B12-796E-654B0F75D8C0}|NSR_Clone\\NSR_Clone.csproj|solutionrelative:nsr_clone\\objectfolder\\analysisclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NSR_Clone\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\MainWindow.xaml",
+              "RelativeToolTip": "NSR_Clone\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T19:05:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NSR_Clone\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\App.xaml.cs",
+              "RelativeToolTip": "NSR_Clone\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:24:22.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NSR_Clone\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NSR_Clone\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:05:29.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NSR_Clone\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "NSR_Clone\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:30:54.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BatchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ViewModels\\BatchViewModel.cs",
+              "RelativeDocumentMoniker": "NSR_Clone\\ViewModels\\BatchViewModel.cs",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ViewModels\\BatchViewModel.cs",
+              "RelativeToolTip": "NSR_Clone\\ViewModels\\BatchViewModel.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAwCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T20:30:11.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BatchClass.cs",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ObjectFolder\\BatchClass.cs",
+              "RelativeDocumentMoniker": "NSR_Clone\\ObjectFolder\\BatchClass.cs",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ObjectFolder\\BatchClass.cs",
+              "RelativeToolTip": "NSR_Clone\\ObjectFolder\\BatchClass.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:36:41.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleClass.cs",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ObjectFolder\\SampleClass.cs",
+              "RelativeDocumentMoniker": "NSR_Clone\\ObjectFolder\\SampleClass.cs",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ObjectFolder\\SampleClass.cs",
+              "RelativeToolTip": "NSR_Clone\\ObjectFolder\\SampleClass.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:07:16.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerClass.cs",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ObjectFolder\\CustomerClass.cs",
+              "RelativeDocumentMoniker": "NSR_Clone\\ObjectFolder\\CustomerClass.cs",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ObjectFolder\\CustomerClass.cs",
+              "RelativeToolTip": "NSR_Clone\\ObjectFolder\\CustomerClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:14:50.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnalysisClass.cs",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ObjectFolder\\AnalysisClass.cs",
+              "RelativeDocumentMoniker": "NSR_Clone\\ObjectFolder\\AnalysisClass.cs",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ObjectFolder\\AnalysisClass.cs",
+              "RelativeToolTip": "NSR_Clone\\ObjectFolder\\AnalysisClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:14:40.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JsonFactory.cs",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\JsonFactory\\JsonFactory.cs",
+              "RelativeDocumentMoniker": "NSR_Clone\\JsonFactory\\JsonFactory.cs",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\JsonFactory\\JsonFactory.cs",
+              "RelativeToolTip": "NSR_Clone\\JsonFactory\\JsonFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:11:25.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BatchStatus.cs",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ObjectFolder\\BatchStatus.cs",
+              "RelativeDocumentMoniker": "NSR_Clone\\ObjectFolder\\BatchStatus.cs",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\ObjectFolder\\BatchStatus.cs",
+              "RelativeToolTip": "NSR_Clone\\ObjectFolder\\BatchStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:20:20.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnalysisData.json",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\JsonData\\AnalysisData.json",
+              "RelativeDocumentMoniker": "NSR_Clone\\JsonData\\AnalysisData.json",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\JsonData\\AnalysisData.json",
+              "RelativeToolTip": "NSR_Clone\\JsonData\\AnalysisData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T19:53:54.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerData.json",
+              "DocumentMoniker": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\JsonData\\CustomerData.json",
+              "RelativeDocumentMoniker": "NSR_Clone\\JsonData\\CustomerData.json",
+              "ToolTip": "C:\\Users\\silas\\source\\repos\\NSR_Clone\\NSR_Clone\\JsonData\\CustomerData.json",
+              "RelativeToolTip": "NSR_Clone\\JsonData\\CustomerData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-05T19:23:51.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
